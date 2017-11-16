@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="tabell1" max_length="40" name="x_166613_telenor_t_tabell1" type="collection">
+        <element label="felt1" max_length="40" name="felt1" type="string"/>
+        <element label="felt2" max_length="40" name="felt2" type="string"/>
+    </element>
+</database>
